@@ -1,0 +1,16 @@
+Video,DJI_0768
+Reporte,DJI_0768_11032025_131926_tm_yolov4_m0.35_p0.25_conteo_reporte.txt
+Fecha,11-03-2025
+Hora,13-19-26
+Det,yolov4
+Track,TM
+Tiempo,859.236
+Car,49
+Truck,13
+Bus,4
+Van,0
+Motorcycle,39
+Bike,5
+Moto-taxi,0
+Pedestrian,14
+TotalMV,110
