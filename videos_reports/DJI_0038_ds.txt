@@ -1,0 +1,16 @@
+Video,DJI_0038
+Reporte,DJI_0038_11032025_225201_ds_yolov4_m0.35_p0.25_conteo_reporte.txt
+Fecha,11-03-2025
+Hora,22-52-01
+Det,yolov4
+Track,DS
+Tiempo,9655.517
+Car,128
+Truck,32
+Bus,4
+Van,4
+Motorcycle,40
+Bike,16
+Moto-taxi,14
+Pedestrian,17
+TotalMV,255
