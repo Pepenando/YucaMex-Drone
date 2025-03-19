@@ -1,0 +1,16 @@
+Video,DJI_0761
+Reporte,DJI_0761_11032025_084245_iou_yolov4_m0.35_p0.25_conteo_reporte.txt
+Fecha,11-03-2025
+Hora,08-42-45
+Det,yolov4
+Track,IOU
+Tiempo,807.294
+Car,41
+Truck,5
+Bus,2
+Van,1
+Motorcycle,33
+Bike,4
+Moto-taxi,0
+Pedestrian,4
+TotalMV,86

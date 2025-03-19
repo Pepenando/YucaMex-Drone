@@ -1,0 +1,16 @@
+Video,DJI_0564
+Reporte,DJI_0564_12032025_045835_ds_yolov4_m0.35_p0.25_conteo_reporte.txt
+Fecha,12-03-2025
+Hora,04-58-35
+Det,yolov4
+Track,DS
+Tiempo,3440.999
+Car,20
+Truck,8
+Bus,1
+Van,0
+Motorcycle,40
+Bike,1
+Moto-taxi,29
+Pedestrian,12
+TotalMV,111
