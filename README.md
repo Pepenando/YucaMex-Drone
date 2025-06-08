@@ -33,5 +33,5 @@ Comparison of tracking methods:
 - [Experimentation videos](https://drive.google.com/drive/folders/1eFsC2K28lvg37kcL7VFsSu1wcP-vYA5r?usp=sharing)
 
 ## Notes
-The manuscript has been submitted to the journal Machine Vision and Applications for peer review.  
+The manuscript has been submitted to the journal Multimedia Tools and Applications for peer review.  
 The S1US2 set will be available after the paper is accepted.  
