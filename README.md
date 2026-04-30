@@ -27,11 +27,13 @@ Comparison of tracking methods:
 - deepSORT (DS)
 
 ## Content
-- [S1 images and labels dataset (train / test)](https://github.com/MemoJmz/YucaMex-MOCS/tree/main/segments)
-- S1US2 images and labels dataset (train / test)
+- [S1 images and labels dataset (train / test)](https://github.com/Pepenando/YucaMex-Drone/tree/main/S1)
+- [S1US2 images and labels dataset (train / test)](https://github.com/Pepenando/YucaMex-Drone/tree/main/S1US2)
 - [Result videos and reports](https://drive.google.com/drive/folders/1NhuE__enX_hjnyoj6N2A6AKsl2pqZyX3?usp=sharing)
 - [Experimentation videos](https://drive.google.com/drive/folders/1eFsC2K28lvg37kcL7VFsSu1wcP-vYA5r?usp=sharing)
+- [Model weights](https://drive.google.com/file/d/10VoZl9aKdELjf_-EFnx1FH43BweeN8kc/view?usp=sharing)
+- [YucaMex-MOCS - MOCS: Multiple Object Counting from a Segment (Dataset)](https://github.com/MemoJmz/YucaMex-MOCS/tree/main/segments)
 
-## Notes
-<!--The manuscript has been submitted to the journal Multimedia Tools and Applications for peer review.  
+<!--## Notes
+The manuscript has been submitted to the journal Multimedia Tools and Applications for peer review.  
 The S1US2 set will be available after the paper is accepted.-->
